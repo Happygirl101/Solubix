@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-2.0%2B-green)](https://flask.palletsprojects.com/)
 
-A web-based application for calculating and visualizing solubility parameters using Hansen Solubility Parameters (HSP) theory. Features interactive 3D visualizations and temperature-dependent solubility predictions.
+A web-based application for calculating and visualizing solubility based on Hansen Solubility Parameters (HSP) and Hildebrand solubility Paramters. Features interactive 3D visualizations and temperature-dependent solubility predictions.
 
 ![Demo Screenshot](static/screenshot.png)
 
